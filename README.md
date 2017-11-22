@@ -1,2 +1,2 @@
 # emailvalidity
-Check the authentication of any email address. Build with love.
+Check the authentication of any email address. Built wit VueJS and Laravel.
